@@ -1,0 +1,11 @@
+C:\Users\Aman\source\repos\Gestion de Ventanas\Gestion de Ventanas\bin\Debug\Gestion de Ventanas.exe.config
+C:\Users\Aman\source\repos\Gestion de Ventanas\Gestion de Ventanas\bin\Debug\Gestion de Ventanas.exe
+C:\Users\Aman\source\repos\Gestion de Ventanas\Gestion de Ventanas\bin\Debug\Gestion de Ventanas.pdb
+C:\Users\Aman\source\repos\Gestion de Ventanas\Gestion de Ventanas\obj\Debug\Gestion de Ventanas.csproj.AssemblyReference.cache
+C:\Users\Aman\source\repos\Gestion de Ventanas\Gestion de Ventanas\obj\Debug\Gestion_de_Ventanas.Profesores.resources
+C:\Users\Aman\source\repos\Gestion de Ventanas\Gestion de Ventanas\obj\Debug\Gestion_de_Ventanas.Properties.Resources.resources
+C:\Users\Aman\source\repos\Gestion de Ventanas\Gestion de Ventanas\obj\Debug\Gestion de Ventanas.csproj.GenerateResource.cache
+C:\Users\Aman\source\repos\Gestion de Ventanas\Gestion de Ventanas\obj\Debug\Gestion de Ventanas.csproj.CoreCompileInputs.cache
+C:\Users\Aman\source\repos\Gestion de Ventanas\Gestion de Ventanas\obj\Debug\Gestion de Ventanas.exe
+C:\Users\Aman\source\repos\Gestion de Ventanas\Gestion de Ventanas\obj\Debug\Gestion de Ventanas.pdb
+C:\Users\Aman\source\repos\Gestion de Ventanas\Gestion de Ventanas\obj\Debug\Gestion_de_Ventanas.Gestion.resources
