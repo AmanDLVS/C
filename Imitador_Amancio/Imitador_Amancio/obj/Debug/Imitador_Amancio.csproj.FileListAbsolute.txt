@@ -1,0 +1,10 @@
+C:\Users\Aman\source\repos\Imitador_Amancio\Imitador_Amancio\bin\Debug\Imitador_Amancio.exe.config
+C:\Users\Aman\source\repos\Imitador_Amancio\Imitador_Amancio\bin\Debug\Imitador_Amancio.exe
+C:\Users\Aman\source\repos\Imitador_Amancio\Imitador_Amancio\bin\Debug\Imitador_Amancio.pdb
+C:\Users\Aman\source\repos\Imitador_Amancio\Imitador_Amancio\obj\Debug\Imitador_Amancio.csproj.AssemblyReference.cache
+C:\Users\Aman\source\repos\Imitador_Amancio\Imitador_Amancio\obj\Debug\Imitador_Amancio.Form1.resources
+C:\Users\Aman\source\repos\Imitador_Amancio\Imitador_Amancio\obj\Debug\Imitador_Amancio.Properties.Resources.resources
+C:\Users\Aman\source\repos\Imitador_Amancio\Imitador_Amancio\obj\Debug\Imitador_Amancio.csproj.GenerateResource.cache
+C:\Users\Aman\source\repos\Imitador_Amancio\Imitador_Amancio\obj\Debug\Imitador_Amancio.csproj.CoreCompileInputs.cache
+C:\Users\Aman\source\repos\Imitador_Amancio\Imitador_Amancio\obj\Debug\Imitador_Amancio.exe
+C:\Users\Aman\source\repos\Imitador_Amancio\Imitador_Amancio\obj\Debug\Imitador_Amancio.pdb
