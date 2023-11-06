@@ -1,0 +1,10 @@
+C:\Users\Aman\source\repos\lista_pelicuals Amancio\lista_pelicuals Amancio\bin\Debug\lista_pelicuals Amancio.exe.config
+C:\Users\Aman\source\repos\lista_pelicuals Amancio\lista_pelicuals Amancio\bin\Debug\lista_pelicuals Amancio.exe
+C:\Users\Aman\source\repos\lista_pelicuals Amancio\lista_pelicuals Amancio\bin\Debug\lista_pelicuals Amancio.pdb
+C:\Users\Aman\source\repos\lista_pelicuals Amancio\lista_pelicuals Amancio\obj\Debug\lista_pelicuals Amancio.csproj.AssemblyReference.cache
+C:\Users\Aman\source\repos\lista_pelicuals Amancio\lista_pelicuals Amancio\obj\Debug\lista_pelicuals_Amancio.Form1.resources
+C:\Users\Aman\source\repos\lista_pelicuals Amancio\lista_pelicuals Amancio\obj\Debug\lista_pelicuals_Amancio.Properties.Resources.resources
+C:\Users\Aman\source\repos\lista_pelicuals Amancio\lista_pelicuals Amancio\obj\Debug\lista_pelicuals Amancio.csproj.GenerateResource.cache
+C:\Users\Aman\source\repos\lista_pelicuals Amancio\lista_pelicuals Amancio\obj\Debug\lista_pelicuals Amancio.csproj.CoreCompileInputs.cache
+C:\Users\Aman\source\repos\lista_pelicuals Amancio\lista_pelicuals Amancio\obj\Debug\lista_pelicuals Amancio.exe
+C:\Users\Aman\source\repos\lista_pelicuals Amancio\lista_pelicuals Amancio\obj\Debug\lista_pelicuals Amancio.pdb
