@@ -1,0 +1,10 @@
+C:\Users\Aman\source\repos\Panel con pestañas-Amancio\Panel con pestañas-Amancio\bin\Debug\Panel con pestañas-Amancio.exe.config
+C:\Users\Aman\source\repos\Panel con pestañas-Amancio\Panel con pestañas-Amancio\bin\Debug\Panel con pestañas-Amancio.exe
+C:\Users\Aman\source\repos\Panel con pestañas-Amancio\Panel con pestañas-Amancio\bin\Debug\Panel con pestañas-Amancio.pdb
+C:\Users\Aman\source\repos\Panel con pestañas-Amancio\Panel con pestañas-Amancio\obj\Debug\Panel con pestañas-Amancio.csproj.AssemblyReference.cache
+C:\Users\Aman\source\repos\Panel con pestañas-Amancio\Panel con pestañas-Amancio\obj\Debug\Panel_con_pestañas_Amancio.Form1.resources
+C:\Users\Aman\source\repos\Panel con pestañas-Amancio\Panel con pestañas-Amancio\obj\Debug\Panel_con_pestañas_Amancio.Properties.Resources.resources
+C:\Users\Aman\source\repos\Panel con pestañas-Amancio\Panel con pestañas-Amancio\obj\Debug\Panel con pestañas-Amancio.csproj.GenerateResource.cache
+C:\Users\Aman\source\repos\Panel con pestañas-Amancio\Panel con pestañas-Amancio\obj\Debug\Panel con pestañas-Amancio.csproj.CoreCompileInputs.cache
+C:\Users\Aman\source\repos\Panel con pestañas-Amancio\Panel con pestañas-Amancio\obj\Debug\Panel con pestañas-Amancio.exe
+C:\Users\Aman\source\repos\Panel con pestañas-Amancio\Panel con pestañas-Amancio\obj\Debug\Panel con pestañas-Amancio.pdb
