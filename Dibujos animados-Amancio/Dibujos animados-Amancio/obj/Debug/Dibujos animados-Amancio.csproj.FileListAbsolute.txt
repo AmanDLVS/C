@@ -1,0 +1,15 @@
+C:\Users\Aman\source\repos\Dibujos animados-Amancio\Dibujos animados-Amancio\bin\Debug\Dibujos animados-Amancio.exe.config
+C:\Users\Aman\source\repos\Dibujos animados-Amancio\Dibujos animados-Amancio\bin\Debug\Dibujos animados-Amancio.exe
+C:\Users\Aman\source\repos\Dibujos animados-Amancio\Dibujos animados-Amancio\bin\Debug\Dibujos animados-Amancio.pdb
+C:\Users\Aman\source\repos\Dibujos animados-Amancio\Dibujos animados-Amancio\obj\Debug\Dibujos animados-Amancio.csproj.AssemblyReference.cache
+C:\Users\Aman\source\repos\Dibujos animados-Amancio\Dibujos animados-Amancio\obj\Debug\Dibujos_animados_Amancio.Form1.resources
+C:\Users\Aman\source\repos\Dibujos animados-Amancio\Dibujos animados-Amancio\obj\Debug\Dibujos_animados_Amancio.Form2.resources
+C:\Users\Aman\source\repos\Dibujos animados-Amancio\Dibujos animados-Amancio\obj\Debug\Dibujos_animados_Amancio.Form3.resources
+C:\Users\Aman\source\repos\Dibujos animados-Amancio\Dibujos animados-Amancio\obj\Debug\Dibujos_animados_Amancio.Properties.Resources.resources
+C:\Users\Aman\source\repos\Dibujos animados-Amancio\Dibujos animados-Amancio\obj\Debug\Dibujos animados-Amancio.csproj.GenerateResource.cache
+C:\Users\Aman\source\repos\Dibujos animados-Amancio\Dibujos animados-Amancio\obj\Debug\Dibujos animados-Amancio.csproj.CoreCompileInputs.cache
+C:\Users\Aman\source\repos\Dibujos animados-Amancio\Dibujos animados-Amancio\obj\Debug\Dibujos animados-Amancio.exe
+C:\Users\Aman\source\repos\Dibujos animados-Amancio\Dibujos animados-Amancio\obj\Debug\Dibujos animados-Amancio.pdb
+C:\Users\Aman\source\repos\Dibujos animados-Amancio\Dibujos animados-Amancio\obj\Debug\Dibujos_animados_Amancio.Form4.resources
+C:\Users\Aman\source\repos\Dibujos animados-Amancio\Dibujos animados-Amancio\obj\Debug\Dibujos_animados_Amancio.Form5.resources
+C:\Users\Aman\source\repos\Dibujos animados-Amancio\Dibujos animados-Amancio\obj\Debug\Dibujos_animados_Amancio.form_juego.resources
