@@ -1,0 +1,12 @@
+C:\Users\Aman\source\repos\Reserva hotelera-Amancio\Reserva hotelera-Amancio\bin\Debug\Reserva hotelera-Amancio.exe.config
+C:\Users\Aman\source\repos\Reserva hotelera-Amancio\Reserva hotelera-Amancio\bin\Debug\Reserva hotelera-Amancio.exe
+C:\Users\Aman\source\repos\Reserva hotelera-Amancio\Reserva hotelera-Amancio\bin\Debug\Reserva hotelera-Amancio.pdb
+C:\Users\Aman\source\repos\Reserva hotelera-Amancio\Reserva hotelera-Amancio\obj\Debug\Reserva hotelera-Amancio.csproj.AssemblyReference.cache
+C:\Users\Aman\source\repos\Reserva hotelera-Amancio\Reserva hotelera-Amancio\obj\Debug\Reserva_hotelera_Amancio.Form1.resources
+C:\Users\Aman\source\repos\Reserva hotelera-Amancio\Reserva hotelera-Amancio\obj\Debug\Reserva_hotelera_Amancio.Properties.Resources.resources
+C:\Users\Aman\source\repos\Reserva hotelera-Amancio\Reserva hotelera-Amancio\obj\Debug\Reserva hotelera-Amancio.csproj.GenerateResource.cache
+C:\Users\Aman\source\repos\Reserva hotelera-Amancio\Reserva hotelera-Amancio\obj\Debug\Reserva hotelera-Amancio.csproj.CoreCompileInputs.cache
+C:\Users\Aman\source\repos\Reserva hotelera-Amancio\Reserva hotelera-Amancio\obj\Debug\Reserva hotelera-Amancio.exe
+C:\Users\Aman\source\repos\Reserva hotelera-Amancio\Reserva hotelera-Amancio\obj\Debug\Reserva hotelera-Amancio.pdb
+C:\Users\Aman\source\repos\Reserva hotelera-Amancio\Reserva hotelera-Amancio\obj\Debug\Reserva_hotelera_Amancio.Form2.resources
+C:\Users\Aman\source\repos\Reserva hotelera-Amancio\Reserva hotelera-Amancio\obj\Debug\Reserva_hotelera_Amancio.Form3.resources
